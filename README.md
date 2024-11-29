@@ -1,5 +1,5 @@
 
-BitGetWallet MemeCoin Analyzer é uma ferramenta que automatiza a análise de meme coins listadas na BitGet Wallet, fornecendo insights rápidos e objetivos para investidores.
+## BitGetWallet MemeCoin Analyzer é uma ferramenta que automatiza a análise de meme coins listadas na BitGet Wallet, fornecendo insights rápidos e objetivos para investidores.
 
 ## 🌟 Visão Geral
 
@@ -13,7 +13,7 @@ Meme coins têm ganhado popularidade significativa no mundo das criptomoedas dev
 
 **Relatórios Prontos:** Gera resultados prontos para compartilhamento.
 
-🚀 Estrutura do Diretório
+## 🚀 Estrutura do Diretório
 Abaixo está a descrição da estrutura principal do projeto:
 
 ```
