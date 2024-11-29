@@ -24,5 +24,5 @@ bitgetwallet_memecoin/
 ├── assets/        # Arquivos de suporte (imagens, gráficos, etc.)
 └── README.md      # Documentação do projeto
 ```
-main.py: Executa a análise principal, processa os dados e gera relatórios iniciais.
-search.py: Permite análises específicas, como buscar e processar tokens individualmente.
+**main.py:** Executa a análise principal, processa os dados e gera relatórios iniciais.
+**search.py:** Permite análises específicas, como buscar e processar tokens individualmente.
