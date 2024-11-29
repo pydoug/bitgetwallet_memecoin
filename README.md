@@ -9,5 +9,7 @@ Meme coins têm ganhado popularidade significativa no mundo das criptomoedas dev
 ### 🔍 Recursos
 
 **Monitoramento Automático:** Captura dados em tempo real de preços e desempenho.
+
 **Análise de Lucros:** Calcula retornos em múltiplos (Profit X) e dólares (Profit $).
+
 **Relatórios Prontos:** Gera resultados prontos para compartilhamento.
