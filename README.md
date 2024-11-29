@@ -1,4 +1,3 @@
-![BitGetWallet MemeCoin Analyzer](https://github.com/pydoug/bitgetwallet_memecoin/blob/main/assets/banner.png?raw=true)
 
 BitGetWallet MemeCoin Analyzer é uma ferramenta que automatiza a análise de meme coins listadas na BitGet Wallet, fornecendo insights rápidos e objetivos para investidores.
 
@@ -13,3 +12,17 @@ Meme coins têm ganhado popularidade significativa no mundo das criptomoedas dev
 **Análise de Lucros:** Calcula retornos em múltiplos (Profit X) e dólares (Profit $).
 
 **Relatórios Prontos:** Gera resultados prontos para compartilhamento.
+
+🚀 Estrutura do Diretório
+Abaixo está a descrição da estrutura principal do projeto:
+
+```
+bitgetwallet_memecoin/
+├── main.py        # Script principal para monitoramento e análise inicial
+├── search.py      # Realiza buscas detalhadas por meme coins específicas
+├── reports/       # Relatórios gerados em CSV ou JSON
+├── assets/        # Arquivos de suporte (imagens, gráficos, etc.)
+└── README.md      # Documentação do projeto
+```
+main.py: Executa a análise principal, processa os dados e gera relatórios iniciais.
+search.py: Permite análises específicas, como buscar e processar tokens individualmente.
